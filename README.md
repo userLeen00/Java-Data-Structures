@@ -26,6 +26,10 @@ degree-planner/src/
 └── Graph.java, GraphNode.java
 ```
 
+## Report
+
+`docs/Data-Structures-Report.docx` - written report: *Data Structures and Abstract Data Types in Java* (Data Structures and Algorithms module).
+
 ## Run
 
 Requires JDK 11 or later.
