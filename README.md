@@ -26,6 +26,15 @@ degree-planner/src/
 └── Graph.java, GraphNode.java
 ```
 
+## Lab exercises
+
+`labs/Data_Structure_sec_3_B/` - in-class implementations written during the course (package `Data_Structure_sec_3_B`): doubly linked list (`Linked_list`), array-backed list with resizing (`Array_list`), a stack built on that list (`Stack_array_list`), and a binary search tree with an interface and traversal (`BST`, `BST_Interface`). `main.java` runs the linked-list demo. Some methods (`insert_first`, `remove_first`) are unfinished stubs.
+
+```bash
+javac -d out labs/Data_Structure_sec_3_B/*.java
+java -cp out Data_Structure_sec_3_B.main
+```
+
 ## Report
 
 `docs/Data-Structures-Report.docx` - written report: *Data Structures and Abstract Data Types in Java* (Data Structures and Algorithms module).
